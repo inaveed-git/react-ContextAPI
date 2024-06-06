@@ -8,6 +8,14 @@ This project is a simple React application that demonstrates the use of ContextA
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **Context API**: For managing global state across the application.
 
+### Login Screen
+
+![Login Screen](public/screenshots/screenshot1.png)
+
+### Profile Screen
+
+![Profile Screen](public/screenshots/screenshot2.png)
+
 ## Getting Started
 
 ### Prerequisites
