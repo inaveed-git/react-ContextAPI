@@ -10,11 +10,11 @@ This project is a simple React application that demonstrates the use of ContextA
 
 ### Login Screen
 
-![Login Screen](public/screenshots/screenshot1.png)
+![Login Screen](src/assets/screenshot1.PNG)
 
 ### Profile Screen
 
-![Profile Screen](public/screenshots/screenshot2.png)
+![Profile Screen](src/assets/screenshot1.PNG)
 
 ## Getting Started
 
