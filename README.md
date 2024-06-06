@@ -14,7 +14,7 @@ This project is a simple React application that demonstrates the use of ContextA
 
 ### Profile Screen
 
-![Profile Screen](src/assets/screenshot1.PNG)
+![Profile Screen](src/assets/screenshot2.PNG)
 
 ## Getting Started
 
